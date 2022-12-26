@@ -1,5 +1,7 @@
-<h1> Hi there 👋 Divyanshi Varshney </h1>
-
+//<h1> Hi there 👋 Divyanshi Varshney </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi there 👋 Divyanshi Varshney!&height=100&section=header"/>
+</p>
 <p align="left"> <img height="30" src="https://komarev.com/ghpvc/?username=divyanshi-varshney2002&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <p align="center">
@@ -16,4 +18,7 @@
 <a href="https://www.instagram.com/_divyanshi_varshney_/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+</p>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

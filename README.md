@@ -1,8 +1,8 @@
-### Hi there 👋 Divyanshi Varshney
+<h1> Hi there 👋 Divyanshi Varshney </h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi-varshney2002&show_icons=true&locale=en&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi-varshney2002&show_icons=true&locale=en&layout=compact"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-varshney2002&locale=en&layout=compact" />
 </p>
 <a href="https://www.instagram.com/_divyanshi_varshney_/">

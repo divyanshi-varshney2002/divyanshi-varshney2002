@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-  <h1 align="center">I'm Divyanshi Varshney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <h1 align="center">I'm Divyanshi Varshney <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
 </p>
 <p align="left"> <img height="30" src="https://komarev.com/ghpvc/?username=divyanshi-varshney2002&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 

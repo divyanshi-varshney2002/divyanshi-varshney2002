@@ -7,7 +7,7 @@
 
 
 <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&theme=dark&locale=en"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&theme=dark&locale=en&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi-varshney2002&show_icons=true&theme=dark&locale=en&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-varshney2002&theme=dark&locale=en&layout=compact" />
 </p>

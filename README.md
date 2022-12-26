@@ -5,10 +5,11 @@
 </p>
 <p align="left"> <img height="30" src="https://komarev.com/ghpvc/?username=divyanshi-varshney2002&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi-varshney2002&show_icons=true&locale=en&layout=compact"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-varshney2002&locale=en&layout=compact" />
+
+<p align="center">  
+    <img src="https://github-readme-stats.vercel.app/api?username=divyanshi-varshney2002&show_icons=true&theme=dark&locale=en"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi-varshney2002&show_icons=true&theme=dark&locale=en&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi-varshney2002&theme=dark&locale=en&layout=compact" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
